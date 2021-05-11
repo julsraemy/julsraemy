@@ -11,7 +11,7 @@ Skills: Linked Open Data, IIIF
 - 🌱 I’m currently trying to improve on my German language skills
 - 😄 Pronouns: he/him (cf. https://name.pn/julien-antoine-raemy)
 
-<span style="background-color: white">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/julsraemy)</span>  
+[<span style="background-color: white"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></span>](https://github.com/julsraemy)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/julienaraemy/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/julsraemy)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https//julsraemy.github.io)  
