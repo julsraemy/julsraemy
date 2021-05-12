@@ -7,7 +7,7 @@ Since February 2021, I have embarked on a PhD in Digital Humanities at the Unive
 
 Skills: Linked Open Data, IIIF
 
-- 🔭 I’m currently working on on my PhD (The role of open and interoperable standards in the dissemination of digital cultural heritage objects”) 
+- 🔭 I’m currently working on on my PhD which is titled _"The role of open and interoperable standards in the dissemination of digital cultural heritage objects”_ 
 - 🌱 I’m currently trying to improve on my German language skills
 - 😄 Pronouns: he/him (cf. https://name.pn/julien-antoine-raemy)
 
