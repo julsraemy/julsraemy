@@ -1,13 +1,13 @@
 ### Hello there 👋, my name is Julien A. Raemy
 ![](https://raw.githubusercontent.com/julsraemy/julsraemy/main/Cultural_heritage%2C_Digital_humanities%2C_stuff.png)
 
-Bookseller by trade, I have since 2013 moved on to the fields of Information Science and Digital Humanities. I am particularly interested in Linked Open Data, digital preservation and user-centred design approaches and how to apply them in the cultural heritage domain. I am quite active in the International Image Interoperability Framework ([IIIF](https://iiif.io)) where I am a member of the IIIF Technical Review Committe (TRC).
+A long time ago I was a bookseller, then I studied Information Science and now I am a PhD Candidate in Digital Humanities. I am particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of Linked Open Data. I am quite active in the International Image Interoperability Framework ([IIIF](https://iiif.io)) where I am a member of the IIIF Technical Review Committe (TRC).
 
-Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, Digital Humanities Lab in the context of the multidisciplinary project funded by the Swiss National Science Foundation (SNSF) titled “Participatory Knowledge Practices in Analogue and Digital Image Archive” (PIA). Simultaneously, I have also started working on a contract basis as an Interoperability and Metadata Consultant at the Data & Service Center for the Humanities (DaSCH). Previously, from August 2017 to January 2021, I worked as a Research and Teaching Assistant at the Haute école de gestion de Genève (HEG-GE) in the Information Science department.
+Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, Digital Humanities Lab in the context of the interdisciplinary research project “Participatory Knowledge Practices in Analogue and Digital Image Archive” (PIA) which is funded by the Swiss National Science Foundation (SNSF). Simultaneously, I have also started working as an Interoperability and Metadata Consultant at the Data & Service Center for the Humanities (DaSCH).
 
-Skills: Linked Open Data, IIIF
+Skills: Data Modelling, IIIF, Linked Open Data
 
-- 🔭 I’m currently working on on my PhD which is titled _"The role of open and interoperable standards in the dissemination of digital cultural heritage objects”_ 
+- 🔭 I’m currently working on on my PhD which has the current working title: _"Deploying a Citizen Science infrastructure with Linked Open Usable Data (LOUD) standards: perspectives on data modelling and long-term access”_ 
 - 🌱 I’m currently trying to improve on my German language skills
 - 😄 Pronouns: he/him (cf. https://name.pn/julien-antoine-raemy)
 
