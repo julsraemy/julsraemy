@@ -9,7 +9,7 @@ Since February 2021, I have embarked on a PhD in Digital Humanities at the Unive
 
 Skills: Data Modelling, IIIF, Linked Open Data
 
-- 🔭 I’m currently working on on my PhD which has the current working title: _"Deploying a Citizen Humanities infrastructure with Linked Open Usable Data (LOUD) standards: perspectives on Interoperability and Knowledge Representation”_
+- 🔭 I’m currently working on on my PhD which has the current working title: _"Linked Open Usable Data (LOUD) standards for Citizen Science: perspectives on Interoperability and Knowledge Representation through and beyond an Actor-Network Theory (ANT) lens”_
 - 🌱 I’m currently trying to improve on my German language skills
 - 😄 Pronouns: he/him (cf. https://name.pn/julien-antoine-raemy)
 
