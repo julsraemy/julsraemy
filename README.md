@@ -3,9 +3,9 @@
 
 _Originally trained as a bookseller, I then studied Information Science in Geneva (Bachelor and Master) and am now a PhD Candidate in Digital Humanities at the University of Basel._
 
-Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, Digital Humanities Lab in the context of the interdisciplinary research project [Participatory Knowledge Practices in Analogue and Digital Image Archive](https://about.participatory-archives.ch) (PIA) which is funded by the Swiss National Science Foundation (SNSF). Simultaneously, I have also started working as an Interoperability and Metadata Consultant at the DaSCH, Swiss National Data & Service Center for the Humanities. 
+Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, Digital Humanities Lab in the context of the interdisciplinary research project [Participatory Knowledge Practices in Analogue and Digital Image Archive](https://about.participatory-archives.ch) (PIA) which is funded by the Swiss National Science Foundation (SNSF). Simultaneously, I have also started working as an Interoperability and Metadata Consultant at DaSCH, Swiss National Data & Service Center for the Humanities. 
 
-I am quite active in the International Image Interoperability Framework ([IIIF](https://iiif.io)) where I am a member of the IIIF Technical Review Committe (TRC).
+I am quite active in the [International Image Interoperability Framework](https://iiif.io) (IIIF) where I am a member of the IIIF Technical Review Committe (TRC).
 
 I am particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of Linked Open Data. I also investigate digital practices from the perspective of Science and Technology Studies (STS), especially through the lens of the Actor-Network Theory (ANT).
 
