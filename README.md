@@ -11,7 +11,7 @@ I am particularly interested in ways of improving the digital preservation, diss
 
 Skills: Data Modelling, IIIF, Linked Open Data
 
-- 🔭 I’m currently working on on my PhD which has the current working title: _"Linked Open Usable Data for Citizen Science: Perspectives on Interoperability and Knowledge Representation through and beyond an Actor-Network Theory Lens”_
+- 🔭 I’m currently working on on my PhD which has the current working title: _"Linked Open Usable Data in the Humanities: Perspectives on Interoperability and Knowledge Representation”_
 - 🌱 I’m currently trying to improve on my German language skills
 - 😄 Pronouns: he/him (cf. https://name.pn/julien-antoine-raemy)
 
