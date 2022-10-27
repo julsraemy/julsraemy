@@ -3,7 +3,7 @@
 
 _Originally trained as a bookseller, I then studied Information Science in Geneva (Bachelor and Master) and am now a PhD Candidate in Digital Humanities at the University of Basel._
 
-Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, Digital Humanities Lab in the context of the interdisciplinary research project [Participatory Knowledge Practices in Analogue and Digital Image Archive](https://about.participatory-archives.ch) (PIA) which is funded by the Swiss National Science Foundation (SNSF). Simultaneously, I have also started working as an Interoperability and Metadata Consultant at DaSCH, Swiss National Data & Service Center for the Humanities. 
+Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, Digital Humanities Lab in the context of the interdisciplinary research project [Participatory Knowledge Practices in Analogue and Digital Image Archives](https://about.participatory-archives.ch) (PIA) which is funded by the Swiss National Science Foundation (SNSF). Simultaneously, I have also started working as an Interoperability and Metadata Consultant at DaSCH, Swiss National Data & Service Center for the Humanities. 
 
 I am quite active in the [International Image Interoperability Framework](https://iiif.io) (IIIF) where I am a member of the IIIF Technical Review Committe (TRC).
 
@@ -11,7 +11,7 @@ I am particularly interested in ways of improving the digital preservation, diss
 
 Skills: Data Modelling, IIIF, Linked Open Data
 
-- 🔭 I’m currently working on on my PhD which has the current working title: _"Linked Open Usable Data in the Humanities: Perspectives on Knowledge Representation and Interoperability”_
+- 🔭 I’m currently working on on my PhD which has the current working title: [Linked Open Usable Data in the Humanities: Perspectives on Semantics and Interoperability](https://phd.julsraemy.ch)
 - 🌱 I’m currently trying to improve on my German language skills
 - 😄 Pronouns: he/him (cf. https://name.pn/julien-antoine-raemy)
 
