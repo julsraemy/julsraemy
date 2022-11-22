@@ -22,6 +22,7 @@ Skills: Data Modelling, IIIF, Linked Open Data
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=julsraemy&color=181717&logo=github)](https://github.com/julsraemy)
 [![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@julsraemy@hcommons.social&color=6364FF&logo=mastodon)](https://hcommons.social/@julsraemy)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Julien%20A.%20Raemy&color=0077B5&logo=linkedin)](https://www.linkedin.com/in/julienaraemy/)
+[![Website](https://img.shields.io/static/v1?label=Website&message=Julien%20A.%20Raemy&color=222222&logo=githubpages)](https://julsraemy.ch)
 
 <!--
 **julsraemy/julsraemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
