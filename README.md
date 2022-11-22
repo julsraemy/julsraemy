@@ -16,10 +16,12 @@ Skills: Data Modelling, IIIF, Linked Open Data
 - 😄 Pronouns: he/him (cf. https://name.pn/julien-antoine-raemy)
 
 #### Find me there
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-4711-5759&color=A6CE39&logo=orcid)](https://orcid.org/0000-0002-4711-5759)
+[![Google Scholar](https://img.shields.io/static/v1?label=Google%20Scholar&message=Julien%20A.%20Raemy&color=4285F4&logo=googlescholar)](https://scholar.google.ch/citations?user=pGROUG0AAAAJ&hl)
+[![ResearchGate](https://img.shields.io/static/v1?label=ResearchGate&message=Julien%20Antoine%20Raemy&color=00CCBB&logo=researchgate)](https://www.researchgate.net/profile/Julien-Raemy)
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=julsraemy&color=181717&logo=github)](https://github.com/julsraemy)
 [![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@julsraemy@hcommons.social&color=6364FF&logo=mastodon)](https://hcommons.social/@julsraemy)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Julien%20A.%20Raemy&color=0077B5&logo=linkedin)](https://www.linkedin.com/in/julienaraemy/)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/julsraemy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/julienaraemy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/julsraemy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/0000-0002-4711-5759)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Julien-Raemy)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=pGROUG0AAAAJ)  
 
 <!--
 **julsraemy/julsraemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
