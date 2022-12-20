@@ -18,6 +18,7 @@ Skills: Data Modelling, IIIF, Linked Open Data
 #### Find me there
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-4711-5759&color=A6CE39&logo=orcid)](https://orcid.org/0000-0002-4711-5759)
 [![Google Scholar](https://img.shields.io/static/v1?label=Google%20Scholar&message=Julien%20A.%20Raemy&color=4285F4&logo=googlescholar)](https://scholar.google.ch/citations?user=pGROUG0AAAAJ&hl)
+[![Semantic Scholar](https://img.shields.io/static/v1?label=LinkedIn&message=Julien%20A.%20Raemy&color=1857B6&logo=semanticscholar)](https://www.semanticscholar.org/author/Julien-A.-Raemy/72004221)
 [![ResearchGate](https://img.shields.io/static/v1?label=ResearchGate&message=Julien%20Antoine%20Raemy&color=00CCBB&logo=researchgate)](https://www.researchgate.net/profile/Julien-Raemy)
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=julsraemy&color=181717&logo=github)](https://github.com/julsraemy)
 [![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@julsraemy@hcommons.social&color=6364FF&logo=mastodon)](https://hcommons.social/@julsraemy)
