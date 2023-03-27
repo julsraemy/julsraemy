@@ -24,7 +24,7 @@ Skills: Data Modelling, IIIF, Linked Open Data
 [![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@julsraemy@hcommons.social&color=6364FF&logo=mastodon)](https://hcommons.social/@julsraemy)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Julien%20A.%20Raemy&color=0077B5&logo=linkedin)](https://www.linkedin.com/in/julienaraemy/)
 [![Website](https://img.shields.io/static/v1?label=Website&message=Julien%20A.%20Raemy&color=222222&logo=githubpages)](https://julsraemy.ch)
-[![PhD Website](https://img.shields.io/badge/PhD%20Website-LOUD%20in%20the%20Humanities-informational)](https://phd.julsraemy.ch)
+[![PhD Website](https://img.shields.io/badge/PhD%20Website-LOUD%20for%20Cultural%20Heritage-informational)](https://phd.julsraemy.ch)
 
 
 <!--
