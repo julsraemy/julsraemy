@@ -3,7 +3,7 @@
 
 I currently work as a Data Scientist at the [Swiss Federal Archives](https://www.bar.admin.ch) and I am quite active in the [International Image Interoperability Framework](https://iiif.io) (IIIF) as well as in the [Linked Art](https://linked.art) community.
 
-Originally trained as a bookseller, I then studied Information Science in Geneva (Bachelor and Master) and am now a PhD Candidate in Digital Humanities at the University of Basel. 
+Originally trained as a bookseller, I then studied Information Science in Geneva (BSc and MSc) and Digital Humanities at the University of Basel. 
 
 I am particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of standards that adhere to the Linked Open Usable Data (LOUD) design principles. I also investigate digital practices from the perspective of Science and Technology Studies (STS), especially through the lens of the Actor-Network Theory (ANT).
 
