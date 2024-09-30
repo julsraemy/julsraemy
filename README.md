@@ -3,9 +3,11 @@
 
 I currently work as a Data Scientist at the [Swiss Federal Archives](https://www.bar.admin.ch) and I am quite active in the [International Image Interoperability Framework](https://iiif.io) (IIIF) as well as in the [Linked Art](https://linked.art) community.
 
-I am particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of Linked Open Data. I also investigate digital practices from the perspective of Science and Technology Studies (STS), especially through the lens of the Actor-Network Theory (ANT).
+Originally trained as a bookseller, I then studied Information Science in Geneva (Bachelor and Master) and am now a PhD Candidate in Digital Humanities at the University of Basel. 
 
-Skills: Data Modelling, IIIF, Linked Open Data
+I am particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of standards that adhere to the Linked Open Usable Data (LOUD) design principles. I also investigate digital practices from the perspective of Science and Technology Studies (STS), especially through the lens of the Actor-Network Theory (ANT).
+
+Skills: Data Modelling, Digital Archives, IIIF, Linked Data
 
 - 🔭 I have submitted my PhD and the oral examination/defence is scheduled for 18 November 2024: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch)
 - 🌱 I’m currently trying to improve on my German language skills
