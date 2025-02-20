@@ -9,8 +9,10 @@ I am particularly interested in ways of improving the digital preservation, diss
 
 Skills: Data Modelling, Digital Archives, IIIF, Linked Data
 
-- 🔭 I have just defended my PhD thesis - which will be soon published: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch)
-- 🌱 I’m currently trying to improve on my German language skills
+- 🔭 My PhD Thesis - **Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability** - has been published: 
+  - [PDF](https://doi.org/10.5451/unibas-ep96807)
+  - [HTML](https://phd.julsraemy.ch/thesis.html)
+- 🌱 I’m currently trying to improve on my Portuguese language skills
 - 😄 Pronouns: he/him (cf. https://name.pn/julien-antoine-raemy)
 
 #### Find me there
