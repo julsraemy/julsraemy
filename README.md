@@ -1,7 +1,9 @@
 ### Hello there 👋, my name is Julien A. Raemy
 ![](https://raw.githubusercontent.com/julsraemy/julsraemy/main/Cultural_heritage%2C_Digital_humanities%2C_stuff.png)
 
-I currently work as a Data Scientist at the [Swiss Federal Archives](https://www.bar.admin.ch) and I am quite active in the [International Image Interoperability Framework](https://iiif.io) (IIIF) as well as in the [Linked Art](https://linked.art) community.
+I currently work as a Digital Archiving Project Manager at the [docuteam](https://www.docuteam.ch/).
+
+I am quite active in the [International Image Interoperability Framework](https://iiif.io) (IIIF) as well as in the [Linked Art](https://linked.art) community.
 
 Originally trained as a bookseller, I then studied Information Science at the HES-SO University of Applied Sciences and Arts of Western Switzerland, Haute école de gestion de Genève (BSc and MSc), before earning a PhD in Digital Humanities from the University of Basel.
 
