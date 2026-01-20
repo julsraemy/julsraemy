@@ -1,7 +1,7 @@
 ### Hello there 👋, my name is Julien A. Raemy
 ![](https://raw.githubusercontent.com/julsraemy/julsraemy/main/Cultural_heritage%2C_Digital_humanities%2C_stuff.png)
 
-I currently work as a Digital Archiving Project Manager at the [docuteam](https://www.docuteam.ch/).
+I currently work as a Digital Archiving Project Manager at [docuteam](https://www.docuteam.ch/).
 
 I am quite active in the [International Image Interoperability Framework](https://iiif.io) (IIIF) as well as in the [Linked Art](https://linked.art) community.
 
