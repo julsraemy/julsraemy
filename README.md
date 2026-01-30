@@ -3,7 +3,7 @@
 
 I currently work as a Digital Archiving Project Manager at [docuteam](https://www.docuteam.ch/). I also hold an appointment as an Associate Researcher in Digital Humanities at the University of Bern (Walter Benjamin Kolleg).
 
-I completed my PhD in 2024 at the Digital Humanities Lab of the University of Basel with [a dissertation on Linked Open Usable Data (LOUD)](https://phd.julsraemy.ch). Previously, I earned a Bachelor's and Master's degree in Information Science from the University of Applied Sciences Western Switzerland (HES-SO).
+I completed my PhD in 2024 at the Digital Humanities Lab of the University of Basel with [a dissertation on Linked Open Usable Data (LOUD)](https://phd.julsraemy.ch). Previously, I earned a Bachelor's and Master's degree in Information Science from the University of Applied Sciences and Arts Western Switzerland (HES-SO).
 
 I have worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (EPFL), as a Research and Teaching Assistant at the Haute école de gestion de Genève (HEG-GE), as a Knowledge Graph Engineer at the University of Zurich's Swiss Art Research Infrastructure (SARI), as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities, as well as a Data Scientist and Project Manager for the Swiss Federal Archives. 
 
