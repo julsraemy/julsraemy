@@ -1,21 +1,22 @@
-### Hello there 👋, my name is Julien A. Raemy
+### Hello there 👋, my name is Julien A. Raemy (he/him)
 ![](https://raw.githubusercontent.com/julsraemy/julsraemy/main/Cultural_heritage%2C_Digital_humanities%2C_stuff.png)
 
-I currently work as a Digital Archiving Project Manager at [docuteam](https://www.docuteam.ch/).
+I currently work as a Digital Archiving Project Manager at [docuteam](https://www.docuteam.ch/). I also hold an appointment as an Associate Researcher in Digital Humanities at the University of Bern (Walter Benjamin Kolleg).
 
-I am quite active in the [International Image Interoperability Framework](https://iiif.io) (IIIF) as well as in the [Linked Art](https://linked.art) community.
+I completed my PhD in 2024 at the Digital Humanities Lab of the University of Basel with [a dissertation on Linked Open Usable Data (LOUD)](https://phd.julsraemy.ch). Previously, I earned a Bachelor's and Master's degree in Information Science from the University of Applied Sciences Western Switzerland (HES-SO).
 
-Originally trained as a bookseller, I then studied Information Science at the HES-SO University of Applied Sciences and Arts of Western Switzerland, Haute école de gestion de Genève (BSc and MSc), before earning a PhD in Digital Humanities from the University of Basel.
+I have worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (EPFL), as a Research and Teaching Assistant at the Haute école de gestion de Genève (HEG-GE), as a Knowledge Graph Engineer at the University of Zurich's Swiss Art Research Infrastructure (SARI), as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities, as well as a Data Scientist and Project Manager for the Swiss Federal Archives. 
+
+In addition, I am actively engaged in the [International Image Interoperability Framework (IIIF)](https://iiif.io) and I am a member of the [Linked Art](https://linked.art) Editorial Board.
 
 I am particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of standards that adhere to the Linked Open Usable Data (LOUD) design principles. I also investigate digital practices from the perspective of Science and Technology Studies (STS), especially through the lens of the Actor-Network Theory (ANT).
 
-Skills: Data Modelling, Digital Archives, IIIF, Linked Data
-
-- 🔭 My PhD Thesis - **Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability** - has been published: 
-  - [PDF](https://doi.org/10.5451/unibas-ep96807)
-  - [HTML](https://phd.julsraemy.ch/thesis.html)
-- 🌱 I’m currently trying to improve on my Portuguese language skills
-- 😄 Pronouns: he/him (cf. https://name.pn/julien-antoine-raemy)
+My research interests: 
+- Cultural Heritage
+- Digital Preservation
+- Information Interoperability
+- Linked Open Data (LOD)
+- Science and Technologies Studies (STS)
 
 #### Find me there
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-4711-5759&color=A6CE39&logo=orcid)](https://orcid.org/0000-0002-4711-5759)
