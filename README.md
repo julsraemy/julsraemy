@@ -1,7 +1,7 @@
 ### Hello there 👋, my name is Julien A. Raemy (he/him)
 ![](https://raw.githubusercontent.com/julsraemy/julsraemy/main/Cultural_heritage%2C_Digital_humanities%2C_stuff.png)
 
-I currently work as a Digital Archiving Project Manager at [docuteam](https://www.docuteam.ch/). I also hold an appointment as an Associate Researcher in Digital Humanities at the University of Bern (Walter Benjamin Kolleg).
+I currently work as a Semantic Architect and Digital Archiving Project Manager at [docuteam](https://www.docuteam.ch/). I also hold an appointment as an Associate Researcher in Digital Humanities at the University of Bern (Walter Benjamin Kolleg).
 
 I completed my PhD in 2024 at the Digital Humanities Lab of the University of Basel with [a dissertation on Linked Open Usable Data (LOUD)](https://phd.julsraemy.ch). Previously, I earned a Bachelor's and Master's degree in Information Science from the University of Applied Sciences and Arts Western Switzerland (HES-SO).
 
