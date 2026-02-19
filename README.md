@@ -7,7 +7,7 @@ I completed my PhD in 2024 at the Digital Humanities Lab of the University of Ba
 
 I have worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (EPFL), as a Research and Teaching Assistant at the Haute école de gestion de Genève (HEG-GE), as a Knowledge Graph Engineer at the University of Zurich's Swiss Art Research Infrastructure (SARI), as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities, as well as a Data Scientist and Project Manager for the Swiss Federal Archives. 
 
-In addition, I am actively engaged in the [International Image Interoperability Framework (IIIF)](https://iiif.io) and I am a member of the [Linked Art](https://linked.art) Editorial Board.
+Additionally, I serve on the Editorial Board of [Linked Art](https://linked.art) and the Coordinating Committee of the [International Image Interoperability Framework (IIIF)](https://iiif.io), as well as on the Technical Working Group of the [Archival Resource Key (ARK) Alliance](https://arks.org/).
 
 I am particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of standards that adhere to the Linked Open Usable Data (LOUD) design principles. I also investigate digital practices from the perspective of Science and Technology Studies (STS), especially through the lens of the Actor-Network Theory (ANT).
 
